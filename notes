@@ -1,0 +1,12 @@
+- we mine around 8k blocks every week
+
+If we on 31st DEC, the current block height is:
+- 3188456
+
+then to analyze, data for the last 1 week, the block range has to be:
+- 3180456
+
+## Plan of action
+
+Question number 1:
+- I want to analyze, this last week, how many unique miners mined the blocks
